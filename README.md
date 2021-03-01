@@ -6,5 +6,5 @@
 - 🙀 &nbsp; Gosto de gatos.
 - 🎓 &nbsp; Tenho Ensino Tecnico em informática.
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandyHoffmann" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandyHoffmann&show_icons=true&theme=synthwave" />
 <br/>
