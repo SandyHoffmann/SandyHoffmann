@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- ⚡ &nbsp; Programo a maioria das coisas em Python/JS(Node/React).
+- ⚡ &nbsp; Programo a maioria das coisas em Python/JS (Node/React).
 - 🙀 &nbsp; Gosto de gatos.
 - 🎓 &nbsp; Tenho Ensino Tecnico em informática.
 - 💻 &nbsp; Cursando Ciência da Computação - IFC
