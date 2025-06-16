@@ -4,10 +4,8 @@
 
 - ⚡ &nbsp; Programo a maioria das coisas em Python/JS (Node/React).
 - 🙀 &nbsp; Gosto de gatos.
-- 🎓 &nbsp; Tenho Ensino Tecnico em informática.
-- 💻 &nbsp; Cursando Ciência da Computação - IFC
-- ✨ &nbsp; Entra21 - Programador WEB
-
+- 🎓 &nbsp; Tenho Ensino Tecnico em informática, Entra21 - Programador WEB e sou graduada em Ciência da Computação pelo IFC.
+- 💻 &nbsp; Cursando Mestrado em Ciências da Computação - UFSC Florianopólis.
 
 
 
